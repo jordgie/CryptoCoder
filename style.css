@@ -1,0 +1,33 @@
+body {
+font-family: Arial, sans-serif;
+margin: 20px;
+}
+
+h1 {
+text-align: center;
+}
+
+.form-group {
+margin-bottom: 10px;
+}
+
+.form-group label {
+font-weight: bold;
+}
+
+.form-group input[type="text"],
+.form-group input[type="file"] {
+padding: 5px;
+width: 100%;
+box-sizing: border-box;
+}
+
+.btn-container {
+text-align: center;
+margin-top: 20px;
+}
+
+.btn-container button {
+padding: 10px 20px;
+font-size: 16px;
+}
